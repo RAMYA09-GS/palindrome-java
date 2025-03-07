@@ -1,4 +1,4 @@
-class PALINDROME {
+class palindrome {
     public static void main(String args[]) {
         int num = 121; 
         int org = num;
